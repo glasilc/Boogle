@@ -1,0 +1,62 @@
+#header a
+{
+    position: relative;
+    font-family: serif;
+    font-size: 20px;
+    text-decoration:none;
+    border: 0px;
+    background-color:floralwhite;
+    height: auto;
+    margin: 5px;
+    top:10px
+}
+.button
+{
+    float: right;
+    position: relative;
+    top:10px;
+     
+        
+}
+button
+{ 
+background-color:  
+    border: none;
+    color: black;
+    padding: 1px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.pic
+{position:relative;
+    
+    left:45%;
+    top:350px
+}
+
+form
+{
+position: relative;
+    left:43%;
+    top: 370px;
+}
+#footer
+{position:absolute;
+    bottom:10px;
+}
+ul li
+{
+    display: inline-block
+}
+li a
+{
+    text-decoration: none;
+        margin:100px;
+    position: relative;
+    left: 523px
+ 
+}
